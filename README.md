@@ -13,3 +13,5 @@ FileSplitterX is a versatile file management tool that allows you to split large
    Lightweight, fast, and easy to use.
    
    Open-source and free to use for all.
+
+Feel free to fork, enhance, or contribute to the project on GitHub!

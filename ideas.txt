@@ -1,0 +1,1 @@
+-add a progress bar for seeing the progress of the spliting for large files

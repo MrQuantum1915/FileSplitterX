@@ -6,12 +6,12 @@ FileSplitterX is a versatile file management tool that allows you to split large
 
 📂 Features:
 
-Split files into custom-sized chunks with personalized extensions.
+    Split files into custom-sized chunks with personalized extensions.
 
-Merge chunks back into the original file with ease.
+    Merge chunks back into the original file with ease.
 
-Lightweight, fast, and easy to use.
+    Lightweight, fast, and easy to use.
+  
+    Open-source and free to use for all.
 
-Open-source and free to use for all.
-
-Feel free to fork, enhance, or contribute to the project on GitHub!
+    Feel free to fork, enhance, or contribute to the project on GitHub!
